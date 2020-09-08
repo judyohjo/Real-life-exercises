@@ -1,2 +1,2 @@
-# Real-life-exercises
-Real life coding exercises
+# Contents
+## Real Life Coding exercises
