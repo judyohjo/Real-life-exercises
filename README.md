@@ -1,2 +1,8 @@
 # Contents
-## Real Life Coding exercises
+
+Python
+  - Lotto exercise
+
+C++
+
+Java
