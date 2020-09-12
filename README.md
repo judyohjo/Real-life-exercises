@@ -2,7 +2,7 @@
 
 Python
   - Lotto exercise
-  - Class captain
+  - Class captain exercise
 
 C++
 
