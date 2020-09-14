@@ -1,7 +1,7 @@
 # Contents
 
 Python
-  - Lotto exercise
+  - Lotto exercise using random() method
   - Class captain exercise
 
 C++
