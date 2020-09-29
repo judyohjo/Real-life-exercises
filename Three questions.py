@@ -1,5 +1,5 @@
 '''
-Pick three random questions from bank of questions (10 questions).
+Pick three random questions from bank of questions (10 questions) to ask the user.
 '''
 
 import random
