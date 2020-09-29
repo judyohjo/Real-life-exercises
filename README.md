@@ -1,4 +1,7 @@
 # Contents
+  - Python
+  - C++
+  - Java
 
 # Python
   - Lotto exercise using random() method
@@ -11,3 +14,4 @@
 # C++
 
 # Java
+  - Creating website using JSP knowledge
