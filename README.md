@@ -1,3 +1,5 @@
+These are real life coding exercises - so exercises that could be used in real life. 
+
 # Contents
   - Python
   - C++
