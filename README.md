@@ -1,4 +1,4 @@
-These are real life coding exercises - so exercises that could be used in real life. 
+These are real life coding exercises
 
 # Contents
   - Python
