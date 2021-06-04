@@ -1,5 +1,3 @@
-These are real life coding exercises
-
 # Contents
   - Python
   - C++
