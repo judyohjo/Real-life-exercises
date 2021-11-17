@@ -11,7 +11,6 @@
   - Three questions exercise using random() method
     - Randomly picks three questions to ask the user
 
-# C++
 
 # Java/JSP
   - Creating website using JSP knowledge
