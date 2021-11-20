@@ -1,4 +1,4 @@
-# Contents (language used)
+# Programming language used
   - Python
   - C++
   - Java/JSP
